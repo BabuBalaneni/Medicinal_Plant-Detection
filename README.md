@@ -1,4 +1,4 @@
-# Team-43 Tech Tenets
+# Tech Tenets
 ## Switch to 'finalTake' branch to see the final project.
 <center><img src="https://github.com/ITER-SIH/Team-43/assets/108077898/9536dbdc-3314-4071-99e1-2a7a4f4edc90" style="height:250px; width:390px;"></center>
 
